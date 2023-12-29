@@ -13,6 +13,8 @@
 
 <img src="https://github.com/BaekJunehong/DataSeminar_project/assets/101456289/5034f76d-ba97-4a67-be15-493866639088)" alt="image" width="500" height="200">   
 
+<br/>
+
 - 데이터의 경우 Kaggle의 개 품좀 분류(Dog Breed Identification) 데이터를 이용
 
 <br>
@@ -33,7 +35,7 @@
 <img src="https://github.com/BaekJunehong/DataSeminar_project/assets/101456289/0df2dd0c-3f40-497a-912b-5c989e0af938" alt="image" width="550" height="300">
 <img src="https://github.com/BaekJunehong/DataSeminar_project/assets/101456289/60cd09f7-5d7b-473f-8d13-c9818b0b325f" alt="image" width="550" height="300">   
 
-<br>
+<br/>
 
 ## 4. 맺음글
 - 품종 간 유사도 차이가 큰 개 품종들을 중점적으로 선정하여 모델을 구현함으로써, 모든 품종을 고르게 사용하거나 상위 20개 품종에 집중하는 일반적인 방식보다 더 높은 분류 성능을 달성하는 것을 목표로 진행하였는데 목표했던 바에 도달한 거 같음
