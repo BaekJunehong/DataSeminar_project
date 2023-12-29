@@ -1,6 +1,6 @@
 # DataSeminar_project
 
-<img src="https://github.com/BaekJunehong/DataSeminar_project/assets/101456289/489e6d9e-6608-4049-b4c3-6ea222fcbb19" alt="image" width="600" height="300">
+<img src="https://github.com/BaekJunehong/DataSeminar_project/assets/101456289/489e6d9e-6608-4049-b4c3-6ea222fcbb19" alt="image" width="500" height="200">
 
 ## 1. 프로젝트 개요  
 - [23.10.24~23.12.19] 기간동안 진행
@@ -11,7 +11,7 @@
 
 <br>
 
-<img src="https://github.com/BaekJunehong/DataSeminar_project/assets/101456289/b0740045-6190-46a8-a098-c234b4ca9af5" alt="image" width="500" height="200">
+<img src="https://github.com/BaekJunehong/DataSeminar_project/assets/101456289/b0740045-6190-46a8-a098-c234b4ca9af5" alt="image" style="display: block; margin: 0 auto;" width="500" height="200">
 
 데이터의 경우 Kaggle의 개 품좀 분류(Dog Breed Identification) 데이터를 이용
 
@@ -32,8 +32,8 @@
 
 ## 3. 모델 적용 예시
 
-<img src="https://github.com/BaekJunehong/DataSeminar_project/assets/101456289/0df2dd0c-3f40-497a-912b-5c989e0af938" alt="image" width="700" height="350">
-<img src="https://github.com/BaekJunehong/DataSeminar_project/assets/101456289/60cd09f7-5d7b-473f-8d13-c9818b0b325f" alt="image" width="700" height="350">
+<img src="https://github.com/BaekJunehong/DataSeminar_project/assets/101456289/0df2dd0c-3f40-497a-912b-5c989e0af938" alt="image" width="600" height="300">
+<img src="https://github.com/BaekJunehong/DataSeminar_project/assets/101456289/60cd09f7-5d7b-473f-8d13-c9818b0b325f" alt="image" width="600" height="300">
 
 <br>
 
