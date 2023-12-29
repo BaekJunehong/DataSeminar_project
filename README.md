@@ -11,7 +11,7 @@
 
 <br>
 
-<img src="https://github.com/BaekJunehong/DataSeminar_project/assets/101456289/5034f76d-ba97-4a67-be15-493866639088)" alt="image" width="500" height="200">  
+<img src="https://github.com/BaekJunehong/DataSeminar_project/assets/101456289/5034f76d-ba97-4a67-be15-493866639088)" alt="image" width="500" height="200">   
 
 - 데이터의 경우 Kaggle의 개 품좀 분류(Dog Breed Identification) 데이터를 이용
 
@@ -31,7 +31,7 @@
 ## 3. 모델 적용 예시
 
 <img src="https://github.com/BaekJunehong/DataSeminar_project/assets/101456289/0df2dd0c-3f40-497a-912b-5c989e0af938" alt="image" width="550" height="300">
-<img src="https://github.com/BaekJunehong/DataSeminar_project/assets/101456289/60cd09f7-5d7b-473f-8d13-c9818b0b325f" alt="image" width="550" height="300">  
+<img src="https://github.com/BaekJunehong/DataSeminar_project/assets/101456289/60cd09f7-5d7b-473f-8d13-c9818b0b325f" alt="image" width="550" height="300">   
 
 <br>
 
